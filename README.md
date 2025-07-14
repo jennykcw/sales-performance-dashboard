@@ -21,6 +21,11 @@ Key tables:
 - `products` - item details like category, brand, cost
 - `distribution_centers` - (optional) for regional insights
 
+## 🗺️ Entity Relationship Diagram (ERD)
+Visualizing the structure and table relationships of the `bigquery-public-data.thelook_ecommerce` dataset:
+
+![ERD Overview](./screenshots/erd_thelook_ecommerce.png)
+
 ---
 
 *More sections will be added as the project progresses.*
