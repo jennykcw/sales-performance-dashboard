@@ -22,9 +22,11 @@ Key tables:
 - `distribution_centers` - (optional) for regional insights
 
 ## 🗺️ Entity Relationship Diagram (ERD)
-Visualizing the structure and table relationships of the `bigquery-public-data.thelook_ecommerce` dataset:
+Visualizing the structure and table relationships of the `bigquery-public-data.thelook_ecommerce` dataset. It serves as the foundation for designing efficient SQL queries and meaningful dashboard insights.
 
 ![ERD Overview](./screenshots/erd_thelook_ecommerce.png)
+
+📎 [Download full ERD in PDF format](./screenshots/erd_thelook_ecommerce.pdf)
 
 ---
 
