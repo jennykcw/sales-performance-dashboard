@@ -21,6 +21,16 @@ Analyze sales and customer data from a simulated-ecommerce platform using SQL an
 ## 🧠 SQL Queries
 All SQL queries used to address the business questions are stored in the [`sql/`](./sql/) folder. Each file is named according to the query number and topic for easy reference. 
 
+## 📑 Insights & Recommendations
+Each query was analyzed to derive actionable insights and recommendations for sales and customer performance.
+
+- **Sales KPIs:** revenue trends, top categories, best-selling products, and monthly performance.
+- **Customer KPIs:** purchase behaviour, regional distribution, loyalty patterns, and age group trends.
+
+Detailed insights and recommendations are documented in the [`summary/`](./summary/) folder. 
+
+*Note: All monetary values are assumed in USD as the dataset does not specify currency.*
+
 ## 🗂️ Project Structure
 - `README.md` - Project overview and documentation
 - `sql/` - SQL scripts for analysis
@@ -53,4 +63,4 @@ Visualizing the structure and table relationships of the `bigquery-public-data.t
 
 ---
 
-*Insight summaries, recommendations and dashboard visuals will be added in upcoming stages.*
+*Dashboard visuals will be added in upcoming stages.*
