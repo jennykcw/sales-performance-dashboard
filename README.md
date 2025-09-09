@@ -4,6 +4,11 @@
 ## 📊 Live Dashboard
 👉🏼 [View on Tableau Public](https://public.tableau.com/app/profile/jenny.kong/viz/SalesCustomerPerformanceDashboard_17569118108190/SalesCustomerPerformanceDashboard)
 
+## 📊 Dashboard Preview
+![Sales & Customer Performance Dashboard](./screenshots/dashboard_sales_customer_performance.png)
+
+*For full interactivity, view the live dashboard on Tableau Public.*
+
 ## 📌 Project Objective
 Analyze sales and customer data from a simulated-ecommerce platform using SQL and visualize business insights with Tableau. The objective is to uncover sales trends, product performance, and customer behavior across regions and time-supporting data-driven business decisions.
 
@@ -33,11 +38,6 @@ Each query was analyzed to derive actionable insights and recommendations for sa
 Detailed insights and recommendations are documented in the [`summary/`](./summary/) folder. 
 
 *Note: All monetary values are assumed in USD as the dataset does not specify currency.*
-
-## 🖼️ Dashboard Visuals
-The final Tableau dashboard consolidates all 8 queries into a single interactive view. Users can explore **sales performance, product trends, customer loyalty, and demographic insights** in one place.
-
-![Dashboard Overview](./screenshots/dashboard_sales_customer_performance.png)
 
 ## 🗂️ Project Structure
 - `README.md` - Project overview and documentation
