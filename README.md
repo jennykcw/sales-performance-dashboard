@@ -1,8 +1,11 @@
 # 📊 Sales & Customer Performance Dashboard
 **SQL (BigQuery) + Tableau Public**
 
+## 📊 Live Dashboard
+👉🏼 [View on Tableau Public](https://public.tableau.com/app/profile/jenny.kong/viz/SalesCustomerPerformanceDashboard_17569118108190/SalesCustomerPerformanceDashboard)
+
 ## 📌 Project Objective
-Analyze sales and customer data from a simulated-ecommerce platform using SQL and visualize business insights with Tableau. The objective is to uncover sales trends, product performance, and customer behavior across regions and time to support data-driven business decisions.
+Analyze sales and customer data from a simulated-ecommerce platform using SQL and visualize business insights with Tableau. The objective is to uncover sales trends, product performance, and customer behavior across regions and time-supporting data-driven business decisions.
 
 ## ❓ Business Questions
 
@@ -30,6 +33,11 @@ Each query was analyzed to derive actionable insights and recommendations for sa
 Detailed insights and recommendations are documented in the [`summary/`](./summary/) folder. 
 
 *Note: All monetary values are assumed in USD as the dataset does not specify currency.*
+
+## 🖼️ Dashboard Visuals
+The final Tableau dashboard consolidates all 8 queries into a single interactive view. Users can explore **sales performance, product trends, customer loyalty, and demographic insights** in one place.
+
+![Dashboard Overview](./screenshots/dashboard_sales_customer_performance.png)
 
 ## 🗂️ Project Structure
 - `README.md` - Project overview and documentation
@@ -60,7 +68,3 @@ Visualizing the structure and table relationships of the `bigquery-public-data.t
 ![ERD Overview](./screenshots/erd_thelook_ecommerce.png)
 
 📎 [Download full ERD in PDF format](./screenshots/erd_thelook_ecommerce.pdf)
-
----
-
-*Dashboard visuals will be added in upcoming stages.*
